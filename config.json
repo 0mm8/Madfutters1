@@ -1,0 +1,21 @@
+{
+    "botToken": "MTA4Nzg1OTk4Nzc1MTExNjg3MA.Gd_PR8.1Alj3JVRPcm-aRN2EBibbB8gglDYCw_6mk_Ujs",
+    "guildId": "1085341021786873856",
+    "adminChannelId": "1085341022227284028",
+    "moderatorRoleId": "1085341021786873857",
+    "tradingChannelId": "1085341022227284028",
+    "coinFlipChannelId": "1085341022227284028",
+    "commandsChannelId": "1085341022227284028",
+    "giveawayPingRoleId": "1085341021786873857",
+    "matchAnnouncementLogChannelId": "1085341022227284029",
+    "predictionLogChannelId": "1085341022227284029",
+    "packChannelId": "1085341022227284029",
+    "moneyManRole": "1085341021786873857",
+    "BetRoleId": "1085341021786873857",
+    "appCheckToken": "eyJraWQiOiJsWUJXVmciLCJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIxOjM1OTYwOTkyOTIwNDphbmRyb2lkOjhiYjc3YTlhNWU1ZmRmYjdkMmZkYTEiLCJhdWQiOlsicHJvamVjdHNcLzM1OTYwOTkyOTIwNCIsInByb2plY3RzXC9tYWRmdXQtMjMiXSwiaXNzIjoiaHR0cHM6XC9cL2ZpcmViYXNlYXBwY2hlY2suZ29vZ2xlYXBpcy5jb21cLzM1OTYwOTkyOTIwNCIsImV4cCI6MTY3ODM5ODM4NywiaWF0IjoxNjc3NzkzNTg3LCJqdGkiOiJIWkR6Vml3dHU3cmFTTGVxZjJFQVZZT2dfSGZUbzZ6WGV5ZFp3ekMxM3h3In0.y3bpUwmkkBbzSggh2udGJFoCNzAQan1a_7rgFO4wsBScSyQI8werUDE846AtoKZKMNVrF78GR3ioVM092G72kBaUGO9njMsOUzQeTBfDYUtNolrSL2l8_HNzC0Kc-eJpGfnIQgFf5_OOwGJa0NJASKr_uchNQclv4_B9-hGG80CSC0W_O1otVrj_bbyJyDUsfSCew2uBy6BVis4_4MphOaLY_7lxtYOpRtYO46JCm5R8-nfmx5uQbsNdu8o7ciWDSiZZ0mpoRSgXukXq-f0EloTYpCChm_63cuBC6-GxGstJutkVchx4mEG4M4hB8eIjIf4ajn10rz2xqDo47-gPeqFZ6hfp35iiZ96uniA94oEgcxM4IzhzFm1S-0uAW5788HWaosBL87ceUd8j5MWrZ-aStL-BXGP3mx5Uw53Wi1XyfMiCQdkoIGObf2ayRfqauEGnjY5T8bL-WLQFQKRWsIXPnEcdCU5axDpD320gj5tViRbos0awLRa9_Hvly6f6",
+    "madfutEmail": "jamietest@gmail.com",
+    "madfutPassword": "Niche1951",
+    "shoppySecret": "SECRET_HERE",
+    "shopLogChannelId": "CHANNEL_ID_HERE"
+  
+}
